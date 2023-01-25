@@ -1,0 +1,8 @@
+{
+  "dauth_token": "DISCORDTOKEN",
+  "app_id": "DISCORDAPPID",
+  "dbhost": "DBIPADDRESS",
+  "dbname": "DBDATABASENAME",
+  "dbuser": "DBUSERNAME",
+  "dbpass": "DBPASSWORD"
+}
